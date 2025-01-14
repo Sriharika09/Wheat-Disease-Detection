@@ -57,7 +57,7 @@ Ensure you have the following installed on your system:
 - NumPy
 
 ### Clone the Repository
-git clone https://github.com/Akshaypaladugu/Wheat-Disease-Detection.git
+git clone https://github.com/Sriharika09/Wheat-Disease-Detection.git
 cd Wheat-Disease-Detection
 
 ## Usage
